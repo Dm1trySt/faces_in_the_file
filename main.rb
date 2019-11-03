@@ -47,3 +47,6 @@ f.puts(noses.sample)
 # Рот
 f.puts(mouths.sample)
 
+# Закрываем файл
+f.close
+
